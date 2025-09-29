@@ -2,8 +2,6 @@
 
 This project is a health advice system that predicts potential health risks based on user-provided metrics. It then suggests personalized recommendations to help mitigate these risks. The system is built with a machine learning pipeline and exposed through a user-friendly web interface.
 
----
-
 ## Project Structure
 
 ```
