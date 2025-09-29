@@ -38,7 +38,7 @@ First, clone the repository and install the required dependencies.
 
 ```bash
 # Clone the repository
-git clone https://git.bdata.top:9443/mockproject/n2_healthadviceai.git
+git clone https://github.com/nguyen-minh-16-06/health_advice_project.git
 
 # Navigate to the project directory
 cd n2_healthadviceai
