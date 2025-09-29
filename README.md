@@ -11,6 +11,8 @@ This project is a health advice system that predicts potential health risks base
 │   │   └── train_cleaned.csv       # Preprocessed dataset
 │   ├── train_dataset.csv
 │   └── test_dataset.csv
+│   └── recommendations.json
+│   └── thresholds.json
 ├── models/
 │   └── risk_model.joblib           # Trained classfication model
 ├── src/
