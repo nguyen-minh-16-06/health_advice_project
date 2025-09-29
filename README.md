@@ -41,7 +41,7 @@ First, clone the repository and install the required dependencies.
 git clone https://github.com/nguyen-minh-16-06/health_advice_project.git
 
 # Navigate to the project directory
-cd n2_healthadviceai
+cd health_advice_project
 
 # Create and activate a virtual environment
 python -m venv venv
@@ -68,7 +68,7 @@ This will generate the cleaned dataset in `data/processed/` and the trained mode
 Finally, launch the main application.
 
 ```bash
-python app.py
+streamlit run app.py
 ```
 
 ## Project Workflow
