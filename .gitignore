@@ -1,0 +1,19 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files
+
+venv/
+
+# python and IDE generated files
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+
+# trained models
+models/risk_model.joblib
+
+# non-source code documents
+Requirement/
+
+# sensitive information and logs
+.env
+*.log

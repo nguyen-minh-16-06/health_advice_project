@@ -1,0 +1,28 @@
+BMI,Acid Uric,Total Cholesterol,Nguy c? (Risk Level),,Quy t?c áp d?ng:
+Cao,Cao,Cao,Cao,,"Nguy c? Cao: N?u có ít nh?t 2 ch? s? ? m?c ""Cao"" HO?C t?ng ?i?m t? 5-6 (v?i Cao = 2, TB = 1, Th?p = 0)"
+Cao,Cao,Trung bình,Cao,,"Nguy c? Th?p: N?u t?ng ?i?m t? 0-2 (và không ch?a 2 m?c ?? ? ""Nguy c? Cao"")"
+Cao,Cao,Th?p,Cao,,Nguy c? Trung bình: Các tr??ng h?p còn l?i
+Cao,Trung bình,Cao,Cao,,
+Cao,Trung bình,Trung bình,Trung bình,,
+Cao,Trung bình,Th?p,Trung bình,,
+Cao,Th?p,Cao,Cao,,
+Cao,Th?p,Trung bình,Trung bình,,
+Cao,Th?p,Th?p,Th?p,,
+Trung bình,Cao,Cao,Cao,,
+Trung bình,Cao,Trung bình,Trung bình,,
+Trung bình,Cao,Th?p,Trung bình,,
+Trung bình,Trung bình,Cao,Trung bình,,
+Trung bình,Trung bình,Trung bình,Trung bình,,
+Trung bình,Trung bình,Th?p,Th?p,,
+Trung bình,Th?p,Cao,Trung bình,,
+Trung bình,Th?p,Trung bình,Th?p,,
+Trung bình,Th?p,Th?p,Th?p,,
+Th?p,Cao,Cao,Cao,,
+Th?p,Cao,Trung bình,Trung bình,,
+Th?p,Cao,Th?p,Th?p,,
+Th?p,Trung bình,Cao,Trung bình,,
+Th?p,Trung bình,Trung bình,Th?p,,
+Th?p,Trung bình,Th?p,Th?p,,
+Th?p,Th?p,Cao,Th?p,,
+Th?p,Th?p,Trung bình,Th?p,,
+Th?p,Th?p,Th?p,Th?p,,

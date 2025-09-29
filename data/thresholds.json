@@ -1,0 +1,15 @@
+{
+  "bmi": {
+    "thieu_can": 18.5,
+    "binh_thuong": 25.0,
+    "thua_can": 30.0
+  },
+  "cholesterol_mmoll": {
+    "binh_thuong": 5.2,
+    "tang_nhe": 6.2
+  },
+  "uric_acid_umoll": {
+    "nam_binh_thuong": 420,
+    "nu_binh_thuong": 360
+  }
+}

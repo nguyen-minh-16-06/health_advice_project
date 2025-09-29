@@ -1,0 +1,633 @@
+{
+  "BMI": {
+    "Cao": {
+      "mo_ta": "Nguy cơ cao do béo phì. Kế hoạch này tập trung vào việc giảm cân bền vững, bảo vệ khớp và thiết lập các thói quen lành mạnh để duy trì kết quả lâu dài.",
+      "goi_y_bai_tap": [
+        {
+          "loai_bai_tap": "Cardio (Ưu tiên tác động thấp)",
+          "chi_tiet": [
+            "Đi bộ nhanh (tăng dần thời gian và tốc độ, mục tiêu 45-60 phút/ngày)",
+            "Đi bộ leo dốc trên máy chạy bộ (Incline Walking)",
+            "Đạp xe tại chỗ hoặc ngoài trời (giữ nhịp độ ổn định)",
+            "Bơi lội hoặc các bài tập thể dục dưới nước (Aqua Aerobics)",
+            "Sử dụng máy tập elliptical (máy trượt tuyết)",
+            "Chèo thuyền trên máy (Rowing Machine)",
+            "Leo cầu thang bộ với tốc độ vừa phải",
+            "Các lớp cardio tác động thấp theo nhóm",
+            "Khiêu vũ nhẹ nhàng"
+          ]
+        },
+        {
+          "loai_bai_tap": "Tập luyện sức mạnh (2-3 buổi/tuần)",
+          "chi_tiet": [
+            "Bodyweight Squats (có thể bắt đầu với ghế)",
+            "Glute Bridges (Nâng hông)",
+            "Wall Push-ups (Chống đẩy vào tường)",
+            "Plank và các biến thể (giữ trong 30-60 giây)",
+            "Bird-Dog (Tư thế Chó và Chim)",
+            "Sử dụng dây kháng lực (Resistance Bands) cho các bài tập kéo và đẩy",
+            "Tập tạ nhẹ với số lần lặp lại cao (15-20 lần/hiệp)",
+            "Kettlebell Deadlifts (tập trung vào form)",
+            "Farmer's Walk (đi bộ xách tạ nhẹ)",
+            "Các bài tập với máy tập gym (Leg Press, Chest Press) ở mức tạ nhẹ"
+          ]
+        },
+        {
+          "loai_bai_tap": "Linh hoạt & Phục hồi",
+          "chi_tiet": [
+            "Giãn cơ toàn thân sau mỗi buổi tập, giữ mỗi động tác 30 giây",
+            "Yoga cho người mới bắt đầu (Gentle Yoga, Hatha Yoga)",
+            "Sử dụng con lăn massage (foam roller) cho các vùng cơ bị căng",
+            "Các bài tập hít thở sâu",
+            "Pilates cơ bản",
+            "Giãn cơ bắp chân (Calf stretch)",
+            "Giãn cơ đùi sau (Hamstring stretch)",
+            "Tư thế em bé (Child's Pose)",
+            "Tư thế mèo-bò (Cat-Cow Pose)",
+            "Các bài tập xoay khớp nhẹ nhàng (cổ, vai, hông, cổ chân)"
+          ]
+        }
+      ],
+      "che_do_dinh_duong": {
+        "nguyen_tac_chung": "Tạo thâm hụt calo khoảng 300-500 kcal/ngày. Tăng cường protein và chất xơ để no lâu. Uống đủ 2-3 lít nước mỗi ngày. Chia nhỏ bữa ăn",
+        "nen_an": [
+          "Ức gà không da",
+          "Cá trắng (cá tuyết, cá rô phi)",
+          "Trứng luộc",
+          "Đậu phụ, các sản phẩm từ đậu nành",
+          "Các loại đậu (đậu đen, đậu lăng)",
+          "Bông cải xanh, rau bina, dưa chuột, xà lách",
+          "Gạo lứt, yến mạch nguyên hạt, quinoa",
+          "Khoai lang",
+          "Quả bơ, dầu ô liu nguyên chất",
+          "Các loại quả mọng (dâu tây, việt quất)"
+        ],
+        "nen_han_che": [
+          "Nước ngọt, trà sữa, nước ép đóng hộp",
+          "Xúc xích, thịt xông khói, đồ hộp",
+          "Mì ăn liền, bim bim",
+          "Gà rán, khoai tây chiên",
+          "Bánh mì trắng, bún, phở, miến",
+          "Bánh kẹo, bánh ngọt, kem",
+          "Nội tạng động vật, da động vật",
+          "Các loại sốt nhiều calo (sốt mayonnaise, sốt kem)",
+          "Rượu bia",
+          "Cà phê nhiều đường và sữa"
+        ]
+      },
+      "loi_song_sinh_hoat": {
+        "giac_ngu": "Ngủ đủ 7-9 tiếng mỗi đêm. Thiếu ngủ làm tăng hormone gây đói (ghrelin) và giảm hormone gây no (leptin).",
+        "quan_ly_cang_thang": "Thực hành thiền định hoặc hít thở sâu 10-15 phút mỗi ngày. Căng thẳng làm tăng cortisol, gây tích mỡ bụng.",
+        "thoi_quen_khac": [
+          "Ăn chậm, nhai kỹ để cảm nhận tín hiệu no.",
+          "Sử dụng đĩa nhỏ hơn để kiểm soát khẩu phần ăn.",
+          "Không ăn trong lúc xem TV hoặc sử dụng điện thoại.",
+          "Đi cầu thang bộ thay vì thang máy.",
+          "Đứng dậy đi lại mỗi 45-60 phút.",
+          "Uống một ly nước trước mỗi bữa ăn.",
+          "Tự nấu ăn tại nhà để kiểm soát thành phần.",
+          "Ghi nhật ký thực phẩm để theo dõi những gì bạn ăn.",
+          "Tìm một người bạn đồng hành để cùng nhau luyện tập.",
+          "Kiên nhẫn và không nản lòng, giảm cân là một quá trình."
+        ]
+      }
+    },
+    "Trung bình": {
+      "mo_ta": "Nguy cơ trung bình do thừa cân. Mục tiêu là giảm mỡ, xây dựng cơ bắp để cơ thể săn chắc và cải thiện sức bền.",
+      "goi_y_bai_tap": [
+        {
+          "loai_bai_tap": "Cardio (Cường độ vừa phải & cao)",
+          "chi_tiet": [
+            "Chạy bộ (kết hợp chạy nhanh và chạy bền)",
+            "Nhảy dây (xen kẽ các hiệp 1-2 phút)",
+            "Các lớp học cường độ cao: Spinning (đạp xe theo nhóm), HIIT, Tabata (2-3 buổi/tuần)",
+            "Chèo thuyền tốc độ cao",
+            "Leo thang bộ hoặc sử dụng máy leo thang (Stair Climber)",
+            "Chạy địa hình (Trail running) để tăng thử thách",
+            "Đấm bốc (Boxing) hoặc Kickboxing",
+            "Các môn thể thao đối kháng (cầu lông, tennis)",
+            "Khiêu vũ thể thao (Zumba, Dance fitness)",
+            "Burpees"
+          ]
+        },
+        {
+          "loai_bai_tap": "Tập luyện sức mạnh (3-4 buổi/tuần)",
+          "chi_tiet": [
+            "Tập tạ với trọng lượng tăng dần, tập trung vào các bài compound (Squats, Deadlifts, Bench Press, Overhead Press).",
+            "Các bài tập tạ đơn (dumbbell): Lunges, Dumbbell Rows, Chest Press.",
+            "Tập với tạ ấm (Kettlebell Swings, Goblet Squats).",
+            "Các bài tập với thanh xà (TRX Training).",
+            "Tập luyện theo dạng Circuit Training (xoay vòng) để tối đa hóa việc đốt calo.",
+            "Pull-ups (hít xà) hoặc Lat Pulldowns.",
+            "Dips (tập tay sau) hoặc Tricep Pushdowns.",
+            "Leg Press.",
+            "Cable Crossover.",
+            "Abdominal Crunches và Leg Raises."
+          ]
+        }
+      ],
+      "che_do_dinh_duong": {
+        "nguyen_tac_chung": "Duy trì mức calo cân bằng hoặc thâm hụt nhẹ. Đảm bảo đủ protein (khoảng 1.6-2.2g/kg cân nặng) để hỗ trợ phục hồi và phát triển cơ bắp",
+        "nen_an": ["Tăng cường các loại quả mọng, sữa chua Hy Lạp", "Ăn đa dạng các nguồn protein", "Uống đủ nước, đặc biệt là trong và sau khi tập", "Salad với nhiều loại rau và sốt dầu giấm", "Các loại hạt và quả khô (lượng vừa phải)", "Sinh tố protein sau tập", "Cá hồi, cá ngừ", "Trứng", "Khoai lang, quinoa", "Rau chân vịt, bông cải xanh"],
+        "nen_han_che": ["Đồ ăn vặt nhiều calo rỗng (bánh kẹo, snack)", "Hạn chế uống rượu bia", "Các loại nước sốt công nghiệp", "Thức ăn nhanh", "Bánh mì trắng và các sản phẩm bột mì tinh chế", "Nước tăng lực", "Thực phẩm đông lạnh chế biến sẵn", "Các món tráng miệng nhiều đường", "Cà phê có nhiều kem và đường", "Thịt mỡ"]
+      },
+      "loi_song_sinh_hoat": {
+        "giac_ngu": "Ưu tiên giấc ngủ chất lượng (7-8 tiếng) để cơ bắp có thời gian phục hồi và phát triển tối ưu.",
+        "quan_ly_cang_thang": "Tìm các hoạt động giải trí lành mạnh không liên quan đến đồ ăn, như đọc sách, nghe nhạc, gặp gỡ bạn bè.",
+        "thoi_quen_khac": ["Lên kế hoạch bữa ăn cho tuần (meal prep).", "Đặt ra các mục tiêu tập luyện cụ thể và có thể đo lường.", "Theo dõi tiến trình của bạn (cân nặng, số đo, sức mạnh).", "Luôn khởi động kỹ trước khi tập và giãn cơ sau khi tập.", "Uống đủ nước trong suốt cả ngày.", "Học các kỹ thuật tập luyện đúng để tránh chấn thương.", "Tìm một cộng đồng hoặc bạn tập để giữ động lực.", "Cân bằng giữa tập luyện và nghỉ ngơi.", "Dành thời gian cho các hoạt động phục hồi tích cực (active recovery) như đi bộ nhẹ.", "Luôn lắng nghe cơ thể và nghỉ ngơi khi cần thiết."]
+      }
+    },
+    "Thấp": {
+      "mo_ta": "Mức độ bình thường hoặc thiếu cân. Kế hoạch này tập trung vào việc xây dựng khối lượng cơ bắp và sức mạnh, thay vì chỉ đốt calo.",
+      "goi_y_bai_tap": [
+        {
+          "loai_bai_tap": "Tập luyện sức mạnh (Ưu tiên hàng đầu, 3-5 buổi/tuần)",
+          "chi_tiet": [
+            "Tập trung vào các bài tập kháng lực với tạ nặng hơn và số lần lặp lại ít hơn (6-10 lần/hiệp).",
+            "Barbell Back Squats.",
+            "Conventional/Romanian Deadlifts.",
+            "Bench Press (đẩy ngực).",
+            "Overhead Press (đẩy vai).",
+            "Pull-ups (hít xà, có thể dùng dây trợ lực).",
+            "Dips (tập tay sau, có thể dùng máy trợ lực).",
+            "Barbell Rows.",
+            "Leg Press.",
+            "Áp dụng phương pháp quá tải lũy tiến (progressive overload)."
+          ]
+        },
+        {
+          "loai_bai_tap": "Cardio (Lượng vừa phải)",
+          "chi_tiet": ["Duy trì 2-3 buổi cardio nhẹ nhàng mỗi tuần (20-30 phút/buổi).", "Đi bộ, chạy bộ nhẹ, đạp xe thư giãn.", "Sử dụng cardio như một bài khởi động hoặc hạ nhiệt sau buổi tập tạ.", "Bơi lội.", "Chèo thuyền nhẹ nhàng."]
+        }
+      ],
+      "che_do_dinh_duong": {
+        "nguyen_tac_chung": "Nạp dư calo lành mạnh (dư khoảng 300-500 kcal/ngày) để tăng cân. Chia thành nhiều bữa ăn nhỏ trong ngày (5-6 bữa)",
+        "nen_an": ["Thực phẩm giàu calo và dinh dưỡng: Bơ đậu phộng, các loại hạt", "Quả bơ, phô mai", "Dầu ô liu", "Thịt bò, ức gà, cá hồi", "Trứng", "Sữa nguyên kem, sữa chua", "Khoai tây, gạo, yến mạch", "Chuối", "Sinh tố giàu protein và chất béo", "Sử dụng thêm sữa tăng cân (mass gainer) hoặc whey protein"],
+        "nen_han_che": ["Tránh bỏ bữa", "Hạn chế uống nhiều nước ngay trước bữa ăn để tránh no ảo", "Đồ ăn vặt không lành mạnh (sẽ tăng mỡ thay vì cơ)", "Cardio quá nhiều và quá nặng", "Thức khuya", "Căng thẳng", "Hút thuốc lá", "Rượu bia", "Ăn uống không đủ bữa", "So sánh cơ thể mình với người khác"]
+      },
+      "loi_song_sinh_hoat": {
+        "giac_ngu": "Ngủ đủ 8-9 tiếng là cực kỳ quan trọng cho quá trình tổng hợp protein và xây dựng cơ bắp.",
+        "quan_ly_cang_thang": "Tránh tập luyện quá sức (overtraining). Lên lịch các ngày nghỉ ngơi hợp lý trong tuần.",
+        "thoi_quen_khac": ["Ăn một bữa phụ giàu protein và carb trước khi ngủ khoảng 1-2 tiếng.", "Luôn ăn đủ bữa, không bỏ bữa sáng.", "Theo dõi lượng calo và protein nạp vào.", "Uống đủ nước.", "Tập trung vào kỹ thuật đúng để tối đa hóa hiệu quả và tránh chấn thương.", "Chia lịch tập cho các nhóm cơ khác nhau.", "Kiên nhẫn, xây dựng cơ bắp cần thời gian.", "Bổ sung creatine có thể hữu ích."]
+      }
+    }
+  },
+  "Cholesterol": {
+    "Cao": {
+      "mo_ta": "Mức cholesterol cao. Kế hoạch này tập trung vào các bài tập cardio để cải thiện sức khỏe tim mạch và chế độ ăn uống giảm chất béo xấu.",
+       "goi_y_bai_tap": [
+        {
+          "loai_bai_tap": "Cardio (Bắt buộc, 5-7 buổi/tuần)",
+          "chi_tiet": [
+            "Đi bộ nhanh (đạt ngưỡng làm tim đập nhanh hơn)",
+            "Chạy bộ bền (Jogging) với cường độ vừa phải",
+            "Đạp xe (ít nhất 30-45 phút mỗi buổi)",
+            "Bơi lội (một bài tập tim mạch tuyệt vời)",
+            "Chèo thuyền trên máy (Rowing Machine)",
+            "Nhảy dây (nếu khớp gối của bạn ổn)",
+            "Các lớp học Aerobics, Zumba",
+            "Leo cầu thang hoặc sử dụng máy leo thang",
+            "Hiking hoặc đi bộ đường dài ở địa hình dốc nhẹ",
+            "Tập luyện cường độ cao ngắt quãng (HIIT) 1-2 buổi/tuần"
+          ]
+        },
+        {
+          "loai_bai_tap": "Tập luyện sức mạnh (2-3 buổi/tuần)",
+          "chi_tiet": [
+            "Tập luyện xoay vòng (Circuit Training) với các bài tập bodyweight.",
+            "Squats và Lunges (không cần tạ hoặc tạ nhẹ).",
+            "Push-ups và Plank.",
+            "Sử dụng dây kháng lực.",
+            "Tập tạ với trọng lượng vừa phải, tập trung vào các nhóm cơ lớn.",
+            "Glute Bridges.",
+            "Dumbbell Rows.",
+            "Overhead Press.",
+            "Lat Pulldowns.",
+            "Leg Press."
+          ]
+        }
+      ],
+      "che_do_dinh_duong": {
+        "nguyen_tac_chung": "Giảm mạnh chất béo bão hòa và chất béo chuyển hóa. Tăng cường chất xơ hòa tan và chất béo không bão hòa. Hạn chế đường",
+        "nen_an": [
+          "Yến mạch, lúa mạch, gạo lứt",
+          "Các loại đậu (đậu đen, đậu lăng, đậu gà)",
+          "Táo, nho, dâu tây, cam, quýt",
+          "Cà tím, đậu bắp",
+          "Các loại hạt (óc chó, hạnh nhân) - ăn lượng vừa phải",
+          "Dầu ô liu, dầu hạt cải",
+          "Cá béo giàu Omega-3 (cá hồi, cá trích, cá mòi)",
+          "Đậu nành và các sản phẩm từ đậu nành (đậu phụ)",
+          "Bông cải xanh, cà rốt",
+          "Trà xanh"
+        ],
+        "nen_han_che": [
+          "Thịt đỏ và thịt mỡ (heo, bò)",
+          "Nội tạng động vật (gan, lòng)",
+          "Sữa và các sản phẩm từ sữa nguyên kem (phô mai, bơ)",
+          "Thức ăn chiên rán (khoai tây chiên, gà rán)",
+          "Bánh ngọt công nghiệp, bánh quy, bánh nướng",
+          "Thịt chế biến sẵn (xúc xích, thịt xông khói)",
+          "Dầu cọ, dầu dừa",
+          "Lòng đỏ trứng (hạn chế 2-3 lòng đỏ/tuần)",
+          "Đồ ăn nhanh",
+          "Các loại sốt kem"
+        ]
+      },
+       "loi_song_sinh_hoat": {
+        "giac_ngu": "Thiếu ngủ có thể ảnh hưởng tiêu cực đến mức cholesterol. Hãy đặt mục tiêu ngủ 7-8 tiếng đều đặn.",
+        "quan_ly_cang_thang": "Căng thẳng mãn tính có thể làm tăng cholesterol. Thực hành các kỹ thuật thư giãn như yoga, thiền.",
+        "thoi_quen_khac": [
+            "Bỏ hút thuốc lá hoàn toàn.",
+            "Hạn chế rượu bia ở mức tối thiểu.",
+            "Đọc kỹ nhãn thực phẩm để tránh chất béo chuyển hóa (trans fat).",
+            "Tăng cường nấu ăn tại nhà.",
+            "Kiểm tra sức khỏe và xét nghiệm mỡ máu định kỳ.",
+            "Duy trì cân nặng hợp lý.",
+            "Uống đủ nước.",
+            "Đi bộ sau bữa ăn tối.",
+            "Tránh ngồi một chỗ quá lâu.",
+            "Tìm hiểu và áp dụng chế độ ăn Địa Trung Hải (Mediterranean diet)."
+        ]
+      }
+    },
+    "Trung bình": {
+      "mo_ta": "Mức cholesterol tăng nhẹ. Kế hoạch này nhằm mục đích đưa các chỉ số về mức lý tưởng và hình thành thói quen bền vững để ngăn ngừa nguy cơ trong tương lai.",
+       "goi_y_bai_tap": [
+        {
+          "loai_bai_tap": "Cardio (3-4 buổi/tuần)",
+          "chi_tiet": [
+            "Chạy bộ interval (chạy nhanh xen kẽ chạy chậm).",
+            "Đạp xe.",
+            "Bơi lội.",
+            "Chèo thuyền.",
+            "Tham gia các lớp tập theo nhóm (Group Fitness).",
+            "Chơi thể thao.",
+            "Nhảy dây.",
+            "Leo cầu thang.",
+            "Hiking.",
+            "Đi bộ nhanh."
+          ]
+        },
+        {
+          "loai_bai_tap": "Tập luyện sức mạnh (2-3 buổi/tuần)",
+          "chi_tiet": [
+            "Tập toàn thân (Full-body workouts).",
+            "Squats.",
+            "Push-ups.",
+            "Dumbbell Rows.",
+            "Lunges.",
+            "Plank.",
+            "Overhead Press.",
+            "Sử dụng dây kháng lực.",
+            "Tập tạ vừa phải.",
+            "Kettlebell Swings."
+          ]
+        }
+      ],
+      "che_do_dinh_duong": {
+        "nguyen_tac_chung": "Áp dụng chế độ ăn cân bằng, ưu tiên thực phẩm toàn phần và tự nhiên. Tăng cường chất xơ",
+        "nen_an": [
+            "Ăn đa dạng các loại rau củ nhiều màu sắc",
+            "Sử dụng ngũ cốc nguyên hạt thay cho ngũ cốc tinh chế",
+            "Chọn các nguồn protein nạc (gà, cá, đậu)",
+            "Trái cây tươi",
+            "Sữa chua không đường",
+            "Dầu ô liu",
+            "Các loại hạt (hạnh nhân, óc chó)",
+            "Cá béo (cá hồi)",
+            "Tỏi",
+            "Bơ"
+        ],
+        "nen_han_che": [
+            "Hạn chế các loại sốt kem, bơ thực vật (margarine)",
+            "Giảm lượng đường thêm vào trong chế độ ăn",
+            "Thực phẩm chế biến sẵn",
+            "Thịt đỏ (ăn ở mức độ vừa phải)",
+            "Đồ ăn nhanh",
+            "Nước ngọt",
+            "Bánh kẹo",
+            "Rượu bia",
+            "Thực phẩm chiên rán",
+            "Sản phẩm từ sữa nhiều béo"
+        ]
+      },
+       "loi_song_sinh_hoat": {
+        "giac_ngu": "Duy trì lịch ngủ đều đặn, kể cả cuối tuần, để ổn định hormone.",
+        "quan_ly_cang_thang": "Dành thời gian cho sở thích cá nhân để giải tỏa căng thẳng.",
+        "thoi_quen_khac": [
+            "Kiểm tra sức khỏe định kỳ để theo dõi các chỉ số.",
+            "Uống đủ nước.",
+            "Nấu ăn tại nhà thường xuyên hơn.",
+            "Duy trì cân nặng hợp lý.",
+            "Tránh hút thuốc.",
+            "Đi bộ sau bữa ăn.",
+            "Học cách đọc nhãn dinh dưỡng.",
+            "Lên kế hoạch bữa ăn.",
+            "Ăn uống có ý thức (Mindful eating).",
+            "Duy trì lịch tập luyện đều đặn."
+        ]
+      }
+    },
+    "Thấp": {
+      "mo_ta": "Mức cholesterol lý tưởng. Kế hoạch này giúp bạn duy trì thành quả, đa dạng hóa việc tập luyện và tối ưu hóa sức khỏe toàn diện.",
+      "goi_y_bai_tap": [
+        {
+          "loai_bai_tap": "Luyện tập đa dạng (Cross-training)",
+          "chi_tiet": [
+            "Chạy bộ đường dài (Long-distance running).",
+            "Bơi lội.",
+            "Đạp xe đường trường.",
+            "Tham gia các lớp yoga nâng cao (Vinyasa, Ashtanga).",
+            "Pilates.",
+            "Chơi các môn thể thao đồng đội (bóng đá, bóng rổ).",
+            "Leo núi trong nhà hoặc ngoài trời.",
+            "Tham gia các giải chạy phong trào (5K, 10K, half-marathon).",
+            "Các môn thể thao đối kháng (võ thuật, tennis).",
+            "Nhảy dây tốc độ cao."
+          ]
+        },
+        {
+          "loai_bai_tap": "Sức mạnh & Chức năng",
+          "chi_tiet": [
+            "Tập tạ với các bài tập compound.",
+            "Các bài tập Calisthenics nâng cao.",
+            "Tập luyện chức năng (Functional Training) với tạ ấm, dây thừng.",
+            "Các chương trình tập luyện như CrossFit (phiên bản phù hợp).",
+            "Tập luyện cân bằng và ổn định (với bóng bosu, ván thăng bằng).",
+            "Plyometrics (các bài tập bùng nổ như box jumps).",
+            "Tập trung vào việc cải thiện PR (Personal Record - kỷ lục cá nhân).",
+            "Tập luyện sức bền cơ bắp.",
+            "Tập luyện tốc độ và sự nhanh nhẹn.",
+            "Các bài tập cho cơ lõi (core) nâng cao."
+          ]
+        }
+      ],
+      "che_do_dinh_duong": {
+        "nguyen_tac_chung": "Duy trì một chế độ ăn uống lành mạnh, cân bằng và đa dạng. Tập trung vào thực phẩm giàu dinh dưỡng và chất lượng cao",
+        "nen_an": [
+            "Tiếp tục ăn nhiều rau, trái cây, ngũ cốc nguyên hạt và protein nạc",
+            "Khám phá các công thức nấu ăn mới để làm phong phú bữa ăn",
+            "Thử các loại 'siêu thực phẩm' (superfoods) như hạt chia, hạt lanh, cải xoăn (kale)",
+            "Ăn đủ các loại vitamin và khoáng chất",
+            "Protein từ nhiều nguồn (thực vật và động vật)",
+            "Chất béo lành mạnh",
+            "Carb phức tạp",
+            "Thực phẩm giàu chất chống oxy hóa",
+            "Các loại thảo mộc và gia vị tự nhiên",
+            "Hydrat hóa đầy đủ"
+        ],
+        "nen_han_che": [
+            "Duy trì việc hạn chế thực phẩm chế biến sẵn và chất béo không lành mạnh",
+            "Hạn chế đường tinh luyện",
+            "Hạn chế rượu bia",
+            "Tránh ăn quá no",
+            "Hạn chế đồ ăn nhanh",
+            "Hạn chế nước ngọt",
+            "Hạn chế thịt chế biến sẵn",
+            "Hạn chế các loại sốt công nghiệp",
+            "Hạn chế bánh kẹo",
+            "Hạn chế thực phẩm chiên ngập dầu"
+        ]
+      },
+       "loi_song_sinh_hoat": {
+        "giac_ngu": "Giấc ngủ ngon giúp tối ưu hóa hiệu suất thể chất và tinh thần.",
+        "quan_ly_cang_thang": "Luôn giữ tinh thần lạc quan, vui vẻ, cân bằng giữa công việc và cuộc sống.",
+        "thoi_quen_khac": [
+            "Lan tỏa lối sống tích cực đến gia đình và bạn bè.",
+            "Đặt ra các thử thách thể chất mới cho bản thân.",
+            "Học hỏi không ngừng về dinh dưỡng và tập luyện.",
+            "Lắng nghe và tôn trọng cơ thể mình.",
+            "Dành thời gian phục hồi tích cực.",
+            "Thiền định để tăng sự tập trung.",
+            "Dành thời gian hòa mình với thiên nhiên.",
+            "Kiểm tra sức khỏe định kỳ.",
+            "Uống đủ nước.",
+            "Duy trì các mối quan hệ xã hội tích cực."
+        ]
+      }
+    }
+  },
+  "UricAcid": {
+    "Cao": {
+      "mo_ta": "Mức acid uric cao. Kế hoạch này tập trung vào các bài tập nhẹ nhàng, tránh mất nước và không gây áp lực lên khớp, kết hợp với chế độ ăn ít purine nghiêm ngặt.",
+       "goi_y_bai_tap": [
+        {
+          "loai_bai_tap": "Cardio (Tác động thấp và cường độ vừa phải)",
+          "chi_tiet": [
+            "Bơi lội là lựa chọn lý tưởng nhất.",
+            "Đi bộ trên địa hình bằng phẳng.",
+            "Đạp xe trong nhà với sức cản thấp.",
+            "Đi bộ dưới nước (Water walking).",
+            "Sử dụng máy elliptical ở mức nhẹ nhàng.",
+            "Thái cực quyền (Tai Chi).",
+            "Khiêu vũ nhẹ nhàng.",
+            "Chèo thuyền trên máy ở tốc độ chậm.",
+            "Yoga phục hồi (Restorative Yoga).",
+            "Đi bộ nhanh xen kẽ đi bộ chậm."
+          ]
+        },
+        {
+          "loai_bai_tap": "Linh hoạt và Cân bằng",
+          "chi_tiet": [
+            "Các bài tập giãn cơ tĩnh (Static stretching), giữ mỗi động tác 30 giây.",
+            "Pilates cho người mới bắt đầu.",
+            "Các bài tập về phạm vi chuyển động của khớp (Range of Motion exercises).",
+            "Tư thế Cây (Tree Pose) để cải thiện cân bằng.",
+            "Tư thế Chó úp mặt (Downward-Facing Dog).",
+            "Giãn cơ đùi trước và sau.",
+            "Giãn cơ hông (Hip flexor stretch).",
+            "Xoay nhẹ cổ tay và cổ chân.",
+            "Tư thế Chiến binh II (Warrior II Pose).",
+            "Hít thở sâu kết hợp vươn vai."
+          ]
+        }
+      ],
+      "che_do_dinh_duong": {
+        "nguyen_tac_chung": "Tuân thủ chế độ ăn ít purine. Uống rất nhiều nước (2.5-3.5 lít/ngày) để giúp thận đào thải acid uric. Hạn chế calo để giảm cân nếu cần",
+        "nen_an": [
+          "Cherry (anh đào), dâu tây, việt quất",
+          "Các loại rau xanh (trừ một số loại như măng tây, rau bina ở mức độ vừa phải)",
+          "Ớt chuông, bông cải xanh",
+          "Sữa và các sản phẩm từ sữa ít béo (sữa chua, phô mai)",
+          "Ngũ cốc nguyên hạt, bánh mì, khoai tây, gạo",
+          "Cà phê (có chừng mực)",
+          "Các loại trái cây giàu vitamin C (cam, kiwi, dứa)",
+          "Trứng",
+          "Dầu thực vật (dầu ô liu)",
+          "Nước lọc, nước chanh loãng"
+        ],
+        "nen_han_che": [
+          "Nội tạng động vật: gan, cật, óc, lòng",
+          "Thịt đỏ: thịt bò, thịt cừu, thịt dê",
+          "Một số loại hải sản: cá cơm, cá mòi, cá trích, sò điệp, trai",
+          "Thịt gà lôi, thịt ngỗng",
+          "Rượu bia, đặc biệt là bia",
+          "Nước ngọt chứa đường fructose cao",
+          "Nước hầm xương, súp thịt đậm đặc",
+          "Nấm, măng tây, rau bina, giá đỗ (ăn lượng vừa phải)",
+          "Thực phẩm lên men (nem chua)",
+          "Đồ ăn nhanh và thực phẩm chế biến sẵn"
+        ]
+      },
+      "loi_song_sinh_hoat": {
+        "giac_ngu": "Ngủ đủ giấc giúp giảm viêm trong cơ thể, có thể hỗ trợ trong việc kiểm soát các triệu chứng gút.",
+        "quan_ly_cang_thang": "Stress có thể là tác nhân gây ra cơn gút cấp. Tìm kiếm các phương pháp thư giãn hiệu quả như nghe nhạc, đọc sách.",
+        "thoi_quen_khac": [
+            "Uống nước liên tục trong ngày, không đợi đến khi khát.",
+            "Tránh để cơ thể bị lạnh đột ngột.",
+            "Kiểm tra và tuân thủ phác đồ điều trị của bác sĩ (nếu có).",
+            "Giảm cân từ từ nếu bạn thừa cân (giảm cân quá nhanh có thể làm tăng acid uric).",
+            "Tránh các hoạt động thể chất quá sức hoặc gây chấn thương cho khớp.",
+            "Kê cao chân khi nghỉ ngơi nếu khớp bị sưng.",
+            "Ghi nhật ký thực phẩm để xác định các loại thức ăn có thể gây ra cơn gút cấp cho bạn.",
+            "Thông báo cho bác sĩ về tất cả các loại thuốc bạn đang dùng.",
+            "Hạn chế mặc quần áo hoặc giày dép quá chật.",
+            "Tìm hiểu kỹ về bệnh gút và cách chung sống hòa bình với nó."
+        ]
+      }
+    },
+    "Trung bình": {
+      "mo_ta": "Chỉ số acid uric ở mức ranh giới. Kế hoạch này tập trung vào việc ngăn ngừa chỉ số tăng cao thông qua điều chỉnh lối sống và dinh dưỡng.",
+      "goi_y_bai_tap": [
+        {
+          "loai_bai_tap": "Cardio (Cường độ vừa phải)",
+          "chi_tiet": [
+            "Đi bộ nhanh",
+            "Đạp xe tại chỗ",
+            "Bơi lội",
+            "Khiêu vũ",
+            "Làm vườn",
+            "Yoga",
+            "Thái cực quyền",
+            "Leo cầu thang",
+            "Chèo thuyền nhẹ nhàng",
+            "Sử dụng máy elliptical"
+          ]
+        },
+        {
+          "loai_bai_tap": "Tập luyện sức mạnh (2 buổi/tuần)",
+          "chi_tiet": [
+            "Các bài tập với dây kháng lực",
+            "Tạ tay nhẹ",
+            "Các bài tập bodyweight (Squats, Lunges, Push-ups)",
+            "Plank",
+            "Glute Bridges",
+            "Các bài tập cho cơ lõi",
+            "Tập trung vào kỹ thuật đúng",
+            "Tránh tập đến kiệt sức",
+            "Luôn khởi động kỹ",
+            "Giãn cơ sau tập"
+          ]
+        }
+      ],
+      "che_do_dinh_duong": {
+        "nguyen_tac_chung": "Uống đủ nước và duy trì một chế độ ăn uống cân bằng. Bắt đầu tìm hiểu và hạn chế dần các thực phẩm giàu purine",
+        "nen_an": [
+            "Tập trung vào thực phẩm có nguồn gốc thực vật",
+            "Ăn thịt gia cầm (gà, vịt) thay vì thịt đỏ",
+            "Sữa ít béo",
+            "Trái cây và rau củ",
+            "Ngũ cốc nguyên hạt",
+            "Khoai tây",
+            "Trứng",
+            "Uống nhiều nước",
+            "Vitamin C",
+            "Cherry"
+        ],
+        "nen_han_che": [
+            "Hạn chế tiêu thụ nội tạng động vật",
+            "Hạn chế rượu bia, đặc biệt là bia",
+            "Hạn chế thịt đỏ",
+            "Hạn chế hải sản có vỏ và một số loại cá nhỏ",
+            "Hạn chế nước ngọt có đường fructose",
+            "Hạn chế các bữa ăn thịnh soạn, nhiều đạm",
+            "Hạn chế nước hầm xương",
+            "Hạn chế nấm, măng tây",
+            "Hạn chế thực phẩm chế biến sẵn",
+            "Hạn chế các sản phẩm từ men bia"
+        ]
+      },
+       "loi_song_sinh_hoat": {
+        "giac_ngu": "Duy trì lịch ngủ ổn định để điều hòa các quá trình trao đổi chất của cơ thể.",
+        "quan_ly_cang_thang": "Cân bằng giữa công việc và nghỉ ngơi để tránh căng thẳng không cần thiết.",
+        "thoi_quen_khac": [
+            "Tự giác uống nước ngay cả khi không khát.",
+            "Duy trì cân nặng hợp lý.",
+            "Kiểm tra sức khỏe định kỳ.",
+            "Tránh các chế độ ăn kiêng khắc nghiệt, giảm cân quá nhanh.",
+            "Vận động thường xuyên, không ngồi một chỗ quá lâu.",
+            "Hạn chế tiếp xúc với lạnh đột ngột.",
+            "Chọn giày dép thoải mái, vừa vặn.",
+            "Tìm hiểu về các loại thực phẩm và hàm lượng purine của chúng.",
+            "Nấu ăn tại nhà.",
+            "Chia sẻ kiến thức sức khỏe với gia đình."
+        ]
+      }
+    },
+    "Thấp": {
+      "mo_ta": "Mức acid uric ở mức an toàn. Kế hoạch này giúp bạn duy trì lối sống lành mạnh và cân bằng.",
+      "goi_y_bai_tap": [
+        {
+          "loai_bai_tap": "Hoạt động đa dạng",
+          "chi_tiet": [
+            "Chạy bộ",
+            "Bơi lội",
+            "Đạp xe",
+            "Tập gym (cardio và tạ)",
+            "Chơi các môn thể thao bạn yêu thích (bóng đá, bóng rổ, cầu lông)",
+            "Hiking, leo núi",
+            "Yoga, Pilates",
+            "Khiêu vũ, zumba",
+            "Các bài tập HIIT",
+            "Làm vườn tích cực"
+          ]
+        }
+      ],
+      "che_do_dinh_duong": {
+        "nguyen_tac_chung": "Duy trì chế độ ăn uống lành mạnh và đa dạng. Không cần kiêng khem quá mức nhưng cần có ý thức về những gì mình ăn",
+        "nen_an": [
+            "Ăn uống cân bằng các nhóm chất: đạm, tinh bột, chất béo, vitamin và khoáng chất",
+            "Nhiều loại rau củ quả",
+            "Ngũ cốc nguyên hạt",
+            "Protein đa dạng",
+            "Chất béo lành mạnh",
+            "Uống đủ nước",
+            "Sữa và các sản phẩm từ sữa",
+            "Các loại đậu",
+            "Trái cây",
+            "Thịt gà, cá"
+        ],
+        "nen_han_che": [
+            "Giữ lượng rượu bia ở mức độ vừa phải",
+            "Hạn chế ăn quá nhiều thịt đỏ và nội tạng trong một bữa",
+            "Hạn chế nước ngọt",
+            "Hạn chế thực phẩm chế biến sẵn",
+            "Hạn chế đồ ăn nhanh",
+            "Hạn chế đồ chiên rán",
+            "Hạn chế đường tinh luyện",
+            "Hạn chế muối",
+            "Hạn chế chất béo bão hòa",
+            "Tránh ăn quá no thường xuyên"
+        ]
+      },
+       "loi_song_sinh_hoat": {
+        "giac_ngu": "Giấc ngủ ngon giúp tối ưu hóa hiệu suất thể chất và tinh thần.",
+        "quan_ly_cang_thang": "Luôn giữ tinh thần lạc quan, vui vẻ, tìm kiếm niềm vui trong cuộc sống.",
+        "thoi_quen_khac": [
+            "Chia sẻ lối sống tích cực của bạn với những người xung quanh.",
+            "Duy trì thói quen vận động.",
+            "Uống đủ nước.",
+            "Kiểm tra sức khỏe định kỳ.",
+            "Luôn học hỏi về sức khỏe.",
+            "Cân bằng công việc và cuộc sống.",
+            "Dành thời gian cho gia đình và bạn bè.",
+            "Đi du lịch, khám phá.",
+            "Thiền định.",
+            "Tôn trọng cơ thể của bạn."
+        ]
+      }
+    }
+  },
+  "Disclaimer": "Tất cả thông tin trên chỉ mang tính chất tham khảo và không thể thay thế cho tư vấn y tế chuyên nghiệp. Hãy tham khảo ý kiến bác sĩ hoặc chuyên gia dinh dưỡng trước khi bắt đầu bất kỳ chương trình tập luyện hoặc chế độ ăn kiêng nào."
+}
